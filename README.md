@@ -38,7 +38,7 @@ To ensure quality and scientific rigor, the dataset underwent:
 For inquiries, contact [2512429627@qq.com].  
 
 ### Acknowledgments
-Thanks to the domain experts for annotation support and the Wanfang Data Knowledge Service Platform for the original data sources.  
+Thanks to the Wanfang Data Knowledge Service Platform for the original data sources.https://s.wanfangdata.com.cn/cstad?q=%E5%9C%B0%E5%8C%BA%3A%E9%87%8D%E5%BA%86&p=1  
 
 ### Usage
 Suitable for tasks such as text classification, topic modeling, named entity recognition, and information extraction.  
